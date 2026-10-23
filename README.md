@@ -6,6 +6,12 @@ Tools for clearer product decisions and verifiable delivery.
 
 我关注产品工作中的三件事：复杂讨论怎样讲清楚、决定怎样追溯到依据、交付结果怎样被核对。
 
+## 从一个完整工作包开始
+
+[PM Toolkit](https://github.com/jamieluo26/pm-toolkit) 将需求、决策、原型与交付接成一条手动工作路径：六份可填写模板、一个贯穿的合成案例、可操作演示、交互导图和Word生成与核对。下载后可在本地使用；它不调用模型或替代人的验收。
+
+## 独立组件
+
 | 项目 | 可以看到什么 | 适合谁 |
 |---|---|---|
 | [Product Mindmap](https://github.com/jamieluo26/product-mindmap) | 可展开的产品决策图，明确区分已确认、建议和待确认 | 产品经理、需求沟通者 |
