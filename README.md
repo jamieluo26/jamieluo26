@@ -1,21 +1,23 @@
-# Jamie · Product × AI × Engineering
+# Jamie
 
-把需求、决策和交付做成可理解、可验证、可复用的工具。
+产品经理，关注用 AI 协作把需求、原型、评审和交付接成可追溯的工作过程。
 
-Tools for clearer product decisions and verifiable delivery.
+## PM Toolkit
 
-我关注产品工作中的三件事：复杂讨论怎样讲清楚、决定怎样追溯到依据、交付结果怎样被核对。
+[PM Toolkit](https://github.com/jamieluo26/pm-toolkit) 是我的旗舰产品经理工具包。可以从一份产品任务出发，整理问题和范围，制作有限原型与同版文档，处理评审，再记录检查、交接与复盘。
 
-## 从一个完整工作包开始
+- 看案例：阅读清单的一次完整迭代、本地请求流程、个人任务板定制。
+- 自己用：填写任务材料，在本地生成原型、PRD 与 Word；按给定反馈和检查记录核对版本。
+- 让 AI 辅助：给定材料形成带引用的审阅草案，产品决定与实际验收由人完成。
 
-[PM Toolkit](https://github.com/jamieluo26/pm-toolkit) 将需求、决策、原型与交付接成一条手动工作路径：六份可填写模板、一个贯穿的合成案例、可操作演示、交互导图和Word生成与核对。下载后可在本地使用；它不调用模型或替代人的验收。
+实际支持范围、当前版本和使用方法以仓库说明为准。示例为合成材料，工具保留调用者内容，本身不脱敏。
 
-## 独立组件
+## 独立组件与工作方法
 
-| 项目 | 可以看到什么 | 适合谁 |
-|---|---|---|
-| [Product Mindmap](https://github.com/jamieluo26/product-mindmap) | 可展开的产品决策图，明确区分已确认、建议和待确认 | 产品经理、需求沟通者 |
-| [Product Delivery Playbook](https://github.com/jamieluo26/product-delivery-playbook) | 从会议证据到需求追踪、产品交接的工作说明和合成案例 | 产品、研发协作者、AI 工作流实践者 |
-| [Structured DOCX](https://github.com/jamieluo26/structured-docx) | 可编辑 Word 生成与实际有序内容核对 | 报告与文档工具开发者 |
+| 项目 | 用途 |
+|---|---|
+| [Product Mindmap](https://github.com/jamieluo26/product-mindmap) | 可浏览的产品思维导图与决定结构 |
+| [Structured DOCX](https://github.com/jamieluo26/structured-docx) | 结构化 Word 生成与完整有序正文核对 |
+| [Product Delivery Playbook](https://github.com/jamieluo26/product-delivery-playbook) | 从问题到评审、交接与复盘的工作方法 |
 
-这里展示的是独立通用版本与合成示例。每个项目都说明使用方法、支持范围和已验证的边界。
+PM Toolkit 组织工作路径，独立组件保留各自的维护入口。没有实际验证的能力不写成已实现；模型草案、技术检查和业务验收分别记录。
